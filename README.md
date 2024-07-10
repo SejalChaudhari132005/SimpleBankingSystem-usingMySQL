@@ -22,4 +22,18 @@ The Main class manages interactions between users and a banking system stored in
 Uses database utilities for managing database operations and validation utilities to ensure data integrity.
 
 ![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/e50ac9ed-c913-4767-917f-4832b4d52c97)
+![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/2caf260a-c802-444f-a998-d5c921c29bde)
+![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/9a29b5f7-8845-475f-9450-3e8ec97eb63e)
+![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/05195bd8-3a24-4d7e-82ea-a41b097bdd5a)
+
+MySQL:
+![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/a9539664-c704-4a4a-b36f-a535464e2486)
+![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/2a5de3d3-0e77-4ee9-ae7c-b16d7b830eb4)
+![image](https://github.com/SejalChaudhari132005/SimpleBankingSystem-usingMySQL/assets/172904171/b91dd3dc-2c3a-4d25-9779-2e3a2cad92d3)
+
+
+
+
+
+
 
